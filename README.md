@@ -28,8 +28,10 @@ I have created a tutorial based on this, do check it out on my channel [Rivaan R
 After cloning this repository, migrate to ```tiktok-flutter-clone``` folder. Then, follow the following steps:
 - Create Firebase Project: [tiktok-flutter-6adf4](https://console.firebase.google.com/project/tiktok-flutter-6adf4/overview)
 - Enable Authentication of Email/Password
+![image](https://user-images.githubusercontent.com/1074685/224767421-5a47e671-1ab7-4a97-954f-01951419f76b.png)
 - Make Firestore Rules
-- Configure app with firebase
+- Configure app with firebase with `flutterfire configure`
+![image](https://user-images.githubusercontent.com/1074685/224767199-778795cf-a522-4fcc-867f-11877a4db43a.png)
 - Create Android & iOS Emulator/Simulator
 Then run the following commands to run your app:
 ```bash
