@@ -29,6 +29,8 @@ After cloning this repository, migrate to ```tiktok-flutter-clone``` folder. The
 - Create Firebase Project: [tiktok-flutter-6adf4](https://console.firebase.google.com/project/tiktok-flutter-6adf4/overview)
 - Enable Authentication of Email/Password
 ![image](https://user-images.githubusercontent.com/1074685/224767421-5a47e671-1ab7-4a97-954f-01951419f76b.png)
+- Manually Create User (note that user registration doesn't seem to work)
+![image](https://user-images.githubusercontent.com/1074685/224881164-874cd538-5bff-47f1-9839-a0658f80e997.png)
 - Make Firestore Rules
 - Configure app with firebase with `flutterfire configure`
 ![image](https://user-images.githubusercontent.com/1074685/224767199-778795cf-a522-4fcc-867f-11877a4db43a.png)
